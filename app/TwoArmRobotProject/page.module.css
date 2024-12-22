@@ -1,0 +1,229 @@
+#root {
+    background-color: white;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Lab Mono";
+    src: url("https://type.cargo.site/files/LabMono-Regular.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+    unicode-range: U+0000-DFFF, U+F900-FFFD;
+}
+
+.mainPhoto {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.projectCollectionInside {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-right: 2vw;
+    margin-left: 25%;
+}
+
+.mainPhotoBridgeCable {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.gifRows {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.singularPhoto {
+    height: auto;
+    max-width: 20vw;
+    width: 100%;
+}
+
+.singularPhotoBridgeCable {
+    width: 50%;
+    height: auto;
+}
+
+.singularPhotoWithText {
+    width: 100%;
+    height: auto;
+}
+
+.singularImageAndText {
+    width: 50%;
+}
+
+.infoAndParagraph {
+    display: flex;
+    margin-top: 3vh;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    width: 25%;
+}
+
+.infoTitle {
+    font-family: "Lab Mono";
+    font-size: 2.3vh;
+}
+
+.infoFullText {
+    display: flex;
+    flex-direction: column;
+    font-family: "Lab Mono";
+    font-size: 1.7vh;
+}
+
+.projectParagraph {
+    font-family: "Lab Mono";
+    font-size: 1.7vh;
+    word-wrap: break-word;
+    width: 70%;
+}
+
+.projectParagraphAndLinks {
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+}
+
+.indexLink, .nextLink {
+    margin-bottom: 20px;
+}
+
+.moreImages {
+    display: flex;
+    flex-direction: column;
+    gap: 5vh;
+    align-items: center;
+}
+
+.moreImagesWithText {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 3rem 0rem 2rem 0rem;
+    align-items: center;
+}
+
+.moreImagesRowFor4 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.moreImagesRowFor3 {
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+
+.moreImagesRowFor2 {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.projectImageBridgeCable {
+    width: 33%;
+    height: auto;
+}
+
+.projectImageInside {
+    height: auto;
+    max-width: 15vw;
+    width: 100%;
+}
+
+.projectVideos {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.singleVideo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 70vw;
+    height: auto;
+}
+
+.twoArmRobotVideo {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    width: 53rem;
+    height: auto;
+}
+
+.videoTitle, .videosMainTitle, .projectReportTitle {
+    font-family: "Lab Mono";
+}
+
+.videosMainTitle, .projectReportTitle {
+    font-size: 2vh;
+}
+
+.moreText {
+    font-family: "Lab Mono";
+    font-size: 1.7vh;
+    word-wrap: break-word;
+    width: 100%;
+    margin: 1rem 0rem 3rem 0rem;
+}
+
+.textSection {
+    font-family: "Lab Mono";
+    font-size: 1.7vh;
+    word-wrap: break-word;
+    margin: 1rem 0rem;
+    width: 45%;
+}
+
+.tableTitle {
+    font-family: "Lab Mono";
+    font-size: 2vh;
+    margin-bottom: 1rem;
+}
+
+.tableSection {
+    font-family: "Lab Mono";
+    font-size: 1.7vh;
+}
+
+.tableSection table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableSection th, .tableSection td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.tableSection th {
+    background-color: #f2f2f2;
+}
+
+.tableSection tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
