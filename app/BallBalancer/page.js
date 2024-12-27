@@ -79,27 +79,24 @@ export default function BallBalancer() {
                       className = {stylesForProject.singularPhoto}
                       src="/ballBalancer/marginallyStable.gif"
                       alt="a gif of the ball balancer in a marginally stable system"
-                      layout="responsive"
-                      width={100}
-                      height={100}
+                      width={1000}
+                      height={1000}
                     />
 
                     <Image
                       className = {stylesForProject.singularPhoto}
                       src="/ballBalancer/overdamped.gif"
                       alt="a gif of the ball balancer in an overdamped stable system"
-                      layout="responsive"
-                      width={100}
-                      height={100}
+                      width={1000}
+                      height={1000}
                     />
 
                     <Image
                       className = {stylesForProject.singularPhoto}
                       src="/ballBalancer/underdamped.gif"
                       alt="a gif of the ball balancer in an underdamped system"
-                      layout="responsive"
-                      width={100}
-                      height={100}
+                      width={1000}
+                      height={1000}
                     />
                   </div>
 

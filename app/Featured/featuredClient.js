@@ -19,7 +19,7 @@ export default function FeaturedClient() {
               </div>
   
               <div className = {styles.navigationTab}>
-                  <div className = "nodes">
+                  <div className = {styles.nodes}>
                       NODES
                   </div>
   

@@ -39,7 +39,7 @@ export default function Home() {
               <a href = "https://www.google.com" target = "_blank" className = "link"> &#128196;</a>
             </div>
 
-            <div className = {styles.goAndNoButtons}>
+            <div className = {styles.goButtonContainer}>
               <Link href = "/Featured">
                 <button className = {styles.goButton}>Go!</button>
               </Link>             

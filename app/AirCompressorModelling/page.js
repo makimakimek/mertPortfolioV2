@@ -150,36 +150,32 @@ export default function AirCompressorModelling() {
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/A.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/A2.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/AB.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/AB2.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
                             </div>
 
@@ -188,36 +184,32 @@ export default function AirCompressorModelling() {
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/D.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/D.jpeg"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/E.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/E.jpeg"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
                             </div>
 
@@ -226,36 +218,32 @@ export default function AirCompressorModelling() {
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/B.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/B.jpeg"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/C.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/C.jpeg"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
                             </div>
 
@@ -264,18 +252,16 @@ export default function AirCompressorModelling() {
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/F.png"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
 
                               <Image
                                 className = {stylesForProject.projectImageInside}
                                 src="/airCompressor/F.jpeg"
                                 alt="drawing"
-                                layout="responsive"
-                                width={100}
-                                height={100}
+                                width={1000}
+                                height={1000}
                               />
                             </div>
                         </div>

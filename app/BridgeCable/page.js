@@ -168,27 +168,24 @@ export default function BridgeCable() {
                               src = "/bridgeCable/A_Mesh.png" 
                               className = {stylesForProject.projectImageBridgeCable} 
                               alt = "drawing"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
 
                             <Image 
                               src = "/bridgeCable/B_Contacts.png" 
                               className = {stylesForProject.projectImageBridgeCable} 
                               alt = "drawing"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
 
                             <Image 
                               src = "/bridgeCable/C.png" 
                               className = {stylesForProject.projectImageBridgeCable} 
                               alt = "drawing"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
                         </div>
                     </div>
@@ -205,18 +202,16 @@ export default function BridgeCable() {
                               src = "/bridgeCable/I.png" 
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
 
                             <Image 
                               src = "/bridgeCable/J.gif" 
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
                         </div>
 
@@ -225,18 +220,16 @@ export default function BridgeCable() {
                               src = "/bridgeCable/K.gif" 
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
 
                             <Image 
                               src = "/bridgeCable/L.gif" 
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
                         </div>
                     </div>
@@ -246,10 +239,9 @@ export default function BridgeCable() {
                             <Image 
                               src = "/bridgeCable/M.png" 
                               className = {stylesForProject.singularPhotoWithText} 
-                              alt = "a photo" 
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              alt = "a photo"
+                              width={1000}
+                              height={1000}
                             />
                         </div>
 
@@ -264,18 +256,16 @@ export default function BridgeCable() {
                               src = "/bridgeCable/N.gif" 
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
 
                             <Image 
                               src = "/bridgeCable/O.gif"
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
                         </div>
 
@@ -284,18 +274,16 @@ export default function BridgeCable() {
                               src = "/bridgeCable/P_Gap.png"
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
 
                             <Image 
                               src = "/bridgeCable/Q.gif"
                               className = {stylesForProject.singularPhotoBridgeCable} 
                               alt = "a gif"
-                              layout="responsive"
-                              width={100}
-                              height={100}
+                              width={1000}
+                              height={1000}
                             />
                         </div>
                     </div>
